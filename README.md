@@ -1,4 +1,4 @@
-#Gsap and react project
+# Gsap and react project
 
 This is a Iphone site clone (frontend)
 
